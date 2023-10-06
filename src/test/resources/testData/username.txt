@@ -1,0 +1,4 @@
+{
+"username":"clinton@spektra.co",
+"password":"Dorobucci@22"
+}
